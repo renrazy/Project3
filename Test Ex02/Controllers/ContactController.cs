@@ -17,6 +17,6 @@ namespace Test_Ex02.Controllers
         {
             return View("Hello");
         }
-        public int add()
+       
     }
 }
