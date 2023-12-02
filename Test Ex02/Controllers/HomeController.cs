@@ -27,7 +27,7 @@ namespace Test_Ex02.Controllers
         //Deferrent Controller
         public ActionResult ShowmoreDetail()
         {
-            return View("~/Views/Contact/Myprofile.cshtml");
+            return View("~/Views/Contact/Mycontact.cshtml");
         }
     }
 }
